@@ -1,0 +1,4 @@
+github.com/anonymou0719/ecosystem-example_a v0.0.0-20250115084451-515f141799ad h1:MpNw+dbEK0iWAH4YcMc3eWFgwx6qqAZUAZxAr/cS6fs=
+github.com/anonymou0719/ecosystem-example_a v0.0.0-20250115084451-515f141799ad/go.mod h1:DzPeMUXW0J30hEKbUT0s029aWD5T54oigJsq7lzrO7M=
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
